@@ -6,3 +6,19 @@
     text-align: center;
     min-height: 100vh;
   }
+
+  div{
+    font-size: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  body{
+    color: rgb(36, 32, 30);
+    line-height: 1;
+  }
