@@ -24,10 +24,10 @@
 
 
   .btn{
-    background-color: rgb(119, 39, 194);
+    background-color: white;
     font-size: 20px;
     text-transform: uppercase;
-    color:  rgb(20, 223, 230);
+    color:  rgb(120, 122, 221);
     border: 2px; 
     font-weight: bold;
     border-radius: 0.7em;
@@ -37,6 +37,7 @@
     text-decoration: none;
     font-family: Tahoma;
     font-size: 18px;
-    line-height: 1;
+    line-height: 1.3;
+  
   }
   
